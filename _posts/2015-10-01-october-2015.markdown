@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "First Floor Facelift"
+date:   2015-10-01 00:00:00 -0400
+categories: article
+file: "2015-10.pdf"
+preview: "2015-10.jpg"
+---
+
+This October issue of *Convergence* conducts an interview with Facilities Manager Steve Thuringer, as well as analyzing the Politics Club's Advanced Polls, the Syrian Refugee Crisis, and the U.S. University Epidemic.

@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Senior Slide"
+date:   2016-02-02 00:00:00 -0400
+categories: article
+file: "2016-02.pdf"
+preview: "2016-02.jpg"
+---
+
+The February issue of Convergence questions the existence of the "*Senior Slide*", interviews WAC 2016 Keynote Speaker Nanor Balyozian, and a special health theme as we examine stress, concussions, and nutritious eating; all topped off with a 2-page *Blazer*.

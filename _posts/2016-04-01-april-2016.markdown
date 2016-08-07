@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Is Boxed Water Better?"
+date:   2016-04-01 00:00:00 -0400
+categories: article
+file: "2016-04.pdf"
+preview: "2016-04.jpg"
+---
+
+The final issue of the 2015-2016 Convergence team, the April issue tackles the ever-controversial boxed water fiasco; an exit interview with Convergence Staff Adviser Marshall Webb; a look at the scandalous Panama Papers; and one final issue of *Blazer*.

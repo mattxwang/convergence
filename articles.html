@@ -1,0 +1,22 @@
+---
+layout: default
+permalink: /articles/
+title: "Archive"
+---
+
+<div class="container text-center spacing-top">
+  <div class="row row-full">
+    {% for post in site.posts %}
+      <div class="col-sm-4">
+        <div class="card card-full">
+          <div class="content">
+            <img class="img-responsive" src="{{site.baseurl}}/img/{{post.preview}}">
+            <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+            <h2><small>{{ post.date | date: "%b %Y" }}</small></h2>
+          </div>
+        </div>
+      </div>
+      {% cycle 'group1': '', '', '</div><div class="row row-full">' %}
+    {% endfor %}
+  </div>
+</div>

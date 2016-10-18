@@ -2,17 +2,19 @@
 layout: default
 ---
 
-<div class="home">
-  <div class="row">
-    {% for post in site.posts %}
-    <div class="col-sm-4" style="text-align:center;">
-      <img class="img-responsive" src="{{site.baseurl}}/img/{{post.preview}}">
-      <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-      <h2><small>{{ post.date | date: "%b %Y" }}</small></h2>
+{% for post in site.posts %}
+<section class="section" class="parallax-window" data-parallax="scroll" data-image-src="{{site.baseurl}}/img/{{post.preview}}">
+  <div class="container">
+    <div class="card">
+      <div class="content">
+        <div class="article-descriptor text-center">
+          <h2><a class="card-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+          <h3><small>published {{ post.date | date: "%b %Y" }}</small></h3>
+          <p class="hidden-sm">{{ post.content }}</p>
+          <a class="btn btn-white btn-round" href="{{ post.url | prepend: site.baseurl }}"><span class="fa fa-newspaper-o"></span> Read Article</a>
+        </div>
+      </div>
     </div>
-    {% endfor %}
   </div>
-
-  <p><span class="fa fa-rss-square" style="color:orange;"></span> <a href="{{ "/feed.xml" | prepend: site.baseurl }}">subscribe via RSS</a></p>
-
-</div>
+</section>
+{% endfor %}

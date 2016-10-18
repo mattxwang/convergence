@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<div class="container">
+  <h1>{{ page.title }}</h1>
+  <h2>published <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%b %Y" }}</time></h2>
+  <a class="btn btn-info btn-round" href="{{site.baseurl}}/issues/{{page.file}}">Download <span class="visible-sm visible-xs">View on Mobile</span></a>
+  <p class="lead">
+    {{content}}
+  </p>
+      <object data="{{site.baseurl}}/issues/{{page.file}}" type="application/pdf" width="100%" height="1000px">
+        <iframe src="{{site.baseurl}}/issues/{{page.file}}" width="100%" height="100%" style="border: none;">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="{{site.baseurl}}/issues/{{page.file}}">Download PDF</a>
+        </iframe>
+      </object>
+
+  </article>
+</div>

@@ -1,0 +1,75 @@
+---
+
+---
+@font-face{
+	font-family: 'Roboto';
+	src:url({{site.baseurl}}/fonts/roboto/Roboto-Regular.ttf);
+}
+@font-face{
+	font-family: 'Roboto Slab';
+	src:url({{site.baseurl}}/fonts/robotoslab/RobotoSlab-Regular.ttf);
+}
+
+html,body,footer{
+  padding: 0;
+  margin: 0;
+}
+html,body{
+  height: 100%;
+  width: 100%;
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-family: 'Roboto Slab';
+}
+.navbar{
+  margin-bottom: 0;
+}
+.section{
+  min-height: 100%;
+  min-width: 100%;
+}
+.spacing-top{
+  margin-top: 2em;
+}
+.article-descriptor{
+}
+.article-image{
+  height: 100%;
+  width: 100%;
+}
+
+@supports (display:flex){
+  .row-full {
+    display: -webkit-box;
+    display: -mox-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .row-full > [class*='col-'] {
+    display: flex;
+    -webkit-box-flex:1;
+    -moz-box-flex:1;
+    -webkit-flex:1;
+    -ms-flex:1;
+    flex:1;
+    flex-direction: column;
+  }
+}
+
+.card-full{
+  height: 100%;
+}
+
+.card-min-full{
+  min-height:100%;
+}
+
+.link-white{
+	color:white;
+}
+.card-link{
+	color: inherit;
+}

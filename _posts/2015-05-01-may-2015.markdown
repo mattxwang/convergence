@@ -1,0 +1,10 @@
+---
+layout: issue
+title:  "Entitled Elitists"
+date:   2015-05-02 00:00:00 -0400
+categories: article
+file: "2015-05.pdf"
+preview: "2015-05.jpg"
+---
+
+The last issue of the 2014-2015 *Convergence* year, looking back on World War I, the Israeli Elections, an analysis of political will and UCC, and a Year in Review for Arts.

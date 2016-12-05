@@ -1,0 +1,10 @@
+---
+layout: issue
+title:  "The Anomaly"
+date:   2014-12-02 00:00:00 -0400
+categories: article
+file: "2014-12.pdf"
+preview: "2014-12.jpg"
+---
+
+The third issue of the 2014-2015 *Convergence* year, discussing the low participation in IB Music, Henry Lee's experience in the TYSO, and an overview of winter sports.

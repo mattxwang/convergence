@@ -1,0 +1,10 @@
+---
+layout: issue
+title:  "Snowden"
+date:   2015-01-02 00:00:00 -0400
+categories: article
+file: "2015-01.pdf"
+preview: "2015-01.jpg"
+---
+
+The fourth issue of the 2014-2015 *Convergence* year, giving insight into the World Affairs Conference, Edward Snowden, Citizen Four, and a brief overview of international news and media reporting.

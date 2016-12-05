@@ -1,0 +1,10 @@
+---
+layout: issue
+title:  "Decisions, Decisions, Decisions"
+date:   2014-10-01 00:00:00 -0400
+categories: article
+file: "2014-10.pdf"
+preview: "2014-10.jpg"
+---
+
+The second issue of the 2014-2015 *Convergence* year, analyzing the mayoral race, the Ebola virus, and an interview with Justis Danto-Chancy.

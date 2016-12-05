@@ -1,10 +1,10 @@
 # Site settings
 title: Convergence | A UCC Student Publication
-email: your-email@domain.com
+email: convergence@ucc.on.ca
 description: >
   Convergence is the oldest student-led publication in Canada. Written by students at Upper Canada College, Convergence aims to examine the world, whether it be on a school level, international level, and anything in between.
-baseurl: "/convergence" # the subpath of your site, e.g. /blog
-url: "http://matthewwang.me" # the base hostname & protocol for your site
+baseurl: ""
+url: "https://convergence.today"
 
 # Build settings
 markdown: kramdown

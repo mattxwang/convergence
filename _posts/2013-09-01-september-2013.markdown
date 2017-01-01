@@ -1,0 +1,10 @@
+---
+layout: issue
+title:  "Is This The Year?"
+date:   2013-09-02 00:00:00 -0400
+categories: article
+file: "2013-09.pdf"
+preview: "2013-09.jpg"
+---
+
+In the first issue of the 2013-2014 Convergence year, Convergence previews the Varsity Football Team, discusses changes to CAS and the character development initiative, and covers a broad scope of global events, including the new Pope, the Syrian crisis, the NSA, and Quebec. The issue is rounded out with an exploration of movie musicals and a fresh issue of *Blazer*.

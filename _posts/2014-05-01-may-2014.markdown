@@ -1,0 +1,10 @@
+---
+layout: issue
+title:  "One Does Not Simply Get Into UCC"
+date:   2014-05-02 00:00:00 -0400
+categories: article
+file: "2014-05.pdf"
+preview: "2014-05.jpg"
+---
+
+In the last issue of the 2013-2014 Convergence year, Convergence investigates the UCC Admission process, reports on the World Cup, analyzes Frédéric Paquet’s Spin Art collection, and features the last issue of *Blazer* for the 2013-2014 Convergence year.

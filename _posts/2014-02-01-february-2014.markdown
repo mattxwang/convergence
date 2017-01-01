@@ -1,0 +1,10 @@
+---
+layout: issue
+title:  "Who Is This Man?"
+date:   2014-02-02 00:00:00 -0400
+categories: article
+file: "2014-02.pdf"
+preview: "2014-02.jpg"
+---
+
+In the February issue of the 2013-2014 Convergence year, Convergence examines incoming head steward Ben Mahon, an interview with an Australian exchange student, a look into the Sochi Olympics from both a sports and political angle, and a classic issue of *Blazer*.

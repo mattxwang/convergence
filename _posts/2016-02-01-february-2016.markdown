@@ -1,7 +1,7 @@
 ---
 layout: issue
 title:  "Senior Slide"
-date:   2016-02-02 00:00:00 -0400
+date:   2016-02-01 00:00:00 -0400
 categories: article
 file: "2016-02.pdf"
 preview: "2016-02.jpg"

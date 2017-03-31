@@ -1,7 +1,7 @@
 ---
 layout: issue
 title:  "What's Next"
-date:   2015-03-01 00:00:00 -0400
+date:   2015-03-01 12:00:00 -0400
 categories: article
 file: "2015-03.pdf"
 preview: "2015-03.jpg"

@@ -1,7 +1,7 @@
 ---
 layout: issue
 title:  "Is This The Year?"
-date:   2013-09-02 00:00:00 -0400
+date:   2013-09-02 12:00:00 -0400
 categories: article
 file: "2013-09.pdf"
 preview: "2013-09.jpg"

@@ -1,7 +1,7 @@
 ---
 layout: issue
 title:  "Who Is This Man?"
-date:   2014-02-01 00:00:00 -0400
+date:   2014-02-01 12:00:00 -0400
 categories: article
 file: "2014-02.pdf"
 preview: "2014-02.jpg"

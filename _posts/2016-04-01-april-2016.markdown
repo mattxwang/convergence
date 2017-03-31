@@ -1,7 +1,7 @@
 ---
 layout: issue
 title:  "Is Boxed Water Better?"
-date:   2016-04-01 00:00:00 -0400
+date:   2016-04-01 12:00:00 -0400
 categories: article
 file: "2016-04.pdf"
 preview: "2016-04.jpg"

@@ -1,0 +1,10 @@
+---
+layout: issue
+title:  "Minimal"
+date:   2017-05-01 12:00:00 -0400
+categories: article
+file: "2017-05.pdf"
+preview: "2017-05.jpg"
+---
+
+The fifth issue of the 2016-2017 *Convergence* year, "Minimal" includes an infographic about Battalion Ball, a look into previous arts captains, the new board of stewards, varsity sports, and a communist uprising from the Blazer.

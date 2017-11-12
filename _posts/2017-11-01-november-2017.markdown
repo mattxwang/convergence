@@ -1,0 +1,10 @@
+---
+layout: issue
+title:  "A New UCC"
+date:   2017-11-01 12:00:00 -0400
+categories: article
+file: "2017-11.pdf"
+preview: "2017-11.jpg"
+---
+
+The second issue of the 2017-2018 *Convergence* year explores the new school: how is it changing, and how is it staying the same? We interview Mr. McKinney, the Board of Stewards, talk about the MYP, and engage with the arts. Plus, an all-new Blazer and a welcome from the Convergence staff!

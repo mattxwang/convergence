@@ -1,0 +1,10 @@
+---
+layout: issue
+title:  "what matters to you?"
+date:   2017-12-01 12:00:00 -0400
+categories: article
+file: "2017-12.pdf"
+preview: "2017-12.jpg"
+---
+
+The third issue of the 2017-2018 *Convergence* year discusses what matters to you: the student body. We discuss drugs, racial bias, feminism, school spirit, academics, and more. Plus, a supercharged issue of the *Blazer* is ready to criticize who needs to be criticized.

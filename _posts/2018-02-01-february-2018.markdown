@@ -1,0 +1,10 @@
+---
+layout: issue
+title:  "New Year, Same School"
+date:   2018-02-01 12:00:00 -0400
+categories: article
+file: "2018-02.pdf"
+preview: "2018-02.jpg"
+---
+
+The fourth issue of the 2017-2018 *Convergence* year analyzes what has changed about our school over the past year, and more importantly, what hasn't: looking at Prefects, elections, the MYP, technology, and swimming. Even the Blazer joins in!

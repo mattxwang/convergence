@@ -1,20 +1,33 @@
 ---
 layout: default
 ---
-
 {% for post in site.posts %}
-<section class="section" class="parallax-window" data-parallax="scroll" data-image-src="{{site.baseurl}}/img/{{post.preview}}">
+<section class="section">
   <div class="container">
-    <div class="card">
-      <div class="content">
-        <div class="article-descriptor text-center">
-          <h2><a class="card-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-          <h3><small>published {{ post.date | date: "%b %Y" }}</small></h3>
-          <p class="hidden-sm">{{ post.content }}</p>
-          <a class="btn btn-white btn-round" href="{{ post.url | prepend: site.baseurl }}"><span class="fa fa-newspaper-o"></span> Read Issue</a>
+    <div class="columns is-desktop is-vcentered">
+      <div class="column is-one-third">
+        <div class="box">
+          <figure class="image">
+            <img class="image" src="{{site.baseurl}}/img/{{post.preview}}" alt="{{ post.date | date: "%b %Y" }} issue cover" />
+          </figure>
         </div>
+      </div>
+      <div class="column">
+        <h1 class="title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
+        <h2 class="subtitle">
+          published {{ post.date | date: "%b %Y" }}
+        </h2>
+        <p>
+          {{ post.content }}
+        </p>
+        <hr />
+        <a class="button is-info is-large" href="{{ post.url | prepend: site.baseurl }}">
+          <span class="icon"><span class="fa fa-newspaper"></span></span>
+          <span> Read Issue</span>
+        </a>
       </div>
     </div>
   </div>
 </section>
+<hr />
 {% endfor %}

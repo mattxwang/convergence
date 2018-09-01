@@ -1,0 +1,26 @@
+---
+layout: default
+permalink: /archive/
+title: "Archive"
+---
+
+<div class="container has-text-centered">
+  <p class="title">The Convergence Archives</p>
+  <hr />
+  <div class="columns">
+    {% for post in site.posts %}
+      <div class="column">
+          <div class="content">
+            <a href="{{ post.url | prepend: site.baseurl }}">
+            <figure class="image">
+              <img src="{{site.baseurl}}/img/{{post.preview}}" alt="{{ post.date | date: "%b %Y" }} issue cover" />
+            </figure>
+            </a>
+            <p class="title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></p>
+            <p class="subtitle"><small>{{ post.date | date: "%b %Y" }}</small></p>
+          </div>
+      </div>
+      {% cycle 'group1': '', '', '</div><hr /><div class="columns">' %}
+    {% endfor %}
+  </div>
+</div>

@@ -1,19 +1,13 @@
-<nav class="navbar navbar-info">
-  <div class="container-fluid">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-container">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a class="navbar-brand" href="{{site.baseurl}}/">Convergence</a>
-    </div>
-
-    <div class="collapse navbar-collapse" id="navbar-collapse-container">
-      <ul class="nav navbar-nav navbar-right">
-        <li><a href="{{site.baseurl}}/articles/">Archive</a></li>
-      </ul>
+<nav class="navbar is-info is-fixed-top" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand">
+    <a class="navbar-item title" href="{{site.baseurl}}/">Convergence</a>
+  </div>
+  <div class="navbar-menu">
+    <div class="navbar-end">
+      <a class="navbar-item" href="{{site.baseurl}}/archive/">
+        <span class="icon"><span class="fa fa-archive"></span></span>
+        <span> Archive</span>
+      </a>
     </div>
   </div>
 </nav>

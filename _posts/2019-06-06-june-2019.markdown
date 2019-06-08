@@ -1,0 +1,12 @@
+---
+layout: issue
+title:  "A Year In Review"
+date:   2019-06-06 12:00:00 -0400
+categories: article
+file: "2019-06.pdf"
+preview: "2019-06.jpg"
+---
+
+description bio blah blah blah 
+
+*Note: after publishing, this issue was edited to fix small layout and type errors. This is the updated version.*

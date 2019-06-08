@@ -1,0 +1,10 @@
+---
+layout: issue
+title:  "A Year In Review"
+date:   2019-06-06 12:00:00 -0400
+categories: article
+file: "2019-06.pdf"
+preview: "2019-06.jpg"
+---
+
+The Year in Review issue of the 2018-2019 Convergence summarizes many of the changes to our school over the past school year. Inside, you'll find interviews with the new Board of Stewards, an article about @uccmemes shutting down, and a discussion about UCC's first Pride Week.

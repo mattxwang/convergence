@@ -1,0 +1,10 @@
+---
+layout: issue
+title:  "Changes"
+date:   2020-03-31 12:00:00 -0400
+categories: article
+file: "2020-03.pdf"
+preview: "2020-03.jpg"
+---
+
+Lots of changes are being implemented at UCC, including a new timetable and an updated, stricter policy for tardiness and cell phone usage. This *Convergence* issue details the reasoning behind these changes and what students can expect. In addition, this issue also covers the Skyky Charity Concert hosted by UCC students that raised $10,000 for SickKids Hospital.  

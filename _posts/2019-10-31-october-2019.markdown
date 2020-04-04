@@ -1,0 +1,10 @@
+---
+layout: issue
+title:  "2020 Vision"
+date:   2019-10-31 12:00:00 -0400
+categories: article
+file: "2019-10.pdf"
+preview: "2019-10.jpg"
+---
+
+The October 2019 *Convergence* issue captures key events in the start of the 2019-2020 school year. In this issue, you'll find details relating changes to many of UCC's STEM clubs, a recap of the UCC Pride Week, coverage of the UCC Federal Election debate and a faculty spotlight on Mr. Breton. 

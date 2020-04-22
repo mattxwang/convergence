@@ -1,6 +1,6 @@
 ---
 layout: issue
-title:  "Changes"
+title:  "Uncertain Future"
 date:   2020-04-22 12:00:00 -0400
 categories: article
 file: "2020-04.pdf"

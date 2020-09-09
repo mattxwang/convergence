@@ -1,0 +1,10 @@
+---
+layout: issue
+title:  "COVID-19: Socially Distanced"
+date:   2020-09-09 12:00:00 -0400
+categories: article
+file: "2020-09.pdf"
+preview: "2020-09.jpg"
+---
+
+This Special Issue of *Convergence* contains some very thoughtful opinion pieces, interesting stories, an overview of how previous pandemics affected UCC, and summaries of actions taken by members of the UCC Community during this unprecedented time of the COVID-19 pandemic.

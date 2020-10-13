@@ -1,0 +1,10 @@
+---
+layout: issue
+title:  "COVID-19: Socially Distanced"
+date:   2020-12-10 12:00:00 -0400
+categories: article
+file: "2020-10.pdf"
+preview: "2020-10.jpg"
+---
+
+Our US Election survey has shown some pretty interesting numbers regarding how UCC students view the US Presidential Election. More importantly, over 40 students have left us thoughtful and fascinating comments on this issue. In this *Convergence* Lite Edition, we publish the results of the survey and all the student comments. By publishing the comments in their entirety, we hope it will depict a whole picture of the diverse student opinions regarding this critical election during this uncertain time. We hope you enjoy reading them!

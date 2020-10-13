@@ -1,6 +1,6 @@
 ---
 layout: issue
-title:  "COVID-19: Socially Distanced"
+title:  "US Election Lite Edition - Survey Results"
 date:   2020-12-10 12:00:00 -0400
 categories: article
 file: "2020-10.pdf"

@@ -1,7 +1,7 @@
 ---
 layout: issue
 title:  "US Election Lite Edition - Survey Results"
-date:   2020-12-10 12:00:00 -0400
+date:   2020-10-12 12:00:00 -0400
 categories: article
 file: "2020-10.pdf"
 preview: "2020-10.jpg"

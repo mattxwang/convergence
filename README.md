@@ -60,3 +60,5 @@ Visit what follows the "Server address:" line (which is normally [http://127.0.0
 And voila! Everything should work for you!
 
 Note: you can use `rake` to build and test the output of `bundle exec jekyll build`.
+
+:) 
